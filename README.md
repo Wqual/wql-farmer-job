@@ -20,7 +20,7 @@ The "Wqual Farm Job" script offers an immersive and realistic experience in the 
 > ox_inventory/data/items.lua
 ```lua
 
-  ['farmer'] = {
+  	['farmer'] = {
 		label = 'Farmer Shovel',
 		weight = 20,
 		stack = true,
