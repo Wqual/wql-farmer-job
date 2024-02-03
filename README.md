@@ -15,7 +15,7 @@ The "Wqual Farm Job" script offers an immersive and realistic experience in the 
 
 **Preview:** https://www.youtube.com/watch?v=ZBNf_mBWSn8
 
->**Installation:** https://wqual-development.gitbook.io/installation-2/
+**Installation:** https://wqual-development.gitbook.io/installation-2/
 
 > ox_inventory/data/items.lua
 ```lua
